@@ -26,3 +26,5 @@ if __name__ == '__main__':
 
 # Example url
 # http://127.0.0.1:5000/suggestions?query=Pk
+# Xano API link
+# https://x8ki-letl-twmt.n7.xano.io/api:WnvsAhPF 
